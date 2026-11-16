@@ -1,0 +1,7 @@
+# Dependency candidates inferred from the project source; install and version compatibility not independently tested.
+numpy
+pandas
+matplotlib
+scipy
+jax
+pypomp
